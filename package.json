@@ -3,5 +3,10 @@
   "description":"This is nodejs study log",
   "keywords":["freecodecamp","8676","study"],
   "license":"Zhj",
-  "version":"1.0.0"
+  "version":"1.0.0",
+  "dependencies":{
+    "@freecodecamp/example":"1.2.13",
+    "express": "4.14.0"
+  }
+  
 }
