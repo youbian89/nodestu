@@ -1,4 +1,5 @@
 {
-  "Author":"ZhangJun"
-  "description":"This is nodejs study log"
+  "Author":"ZhangJun",
+  "description":"This is nodejs study log",
+  "keywords":["freecodecamp","8676","study"],
 }
